@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rukhsar Khan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Kotlin, Spring Boot Application**
+- 🔭 I’m currently working on **Java, Kotlin, Spring Boot Application**
 
 - 👯 I’m looking to collaborate on **hackathons, open source contributions and implementing creative ideas**
 
