@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rukhsar141403](https://medium.com/@rukhsar141403)
 
-- 💬 Ask me about **Kotlin, Spring Boot, Python, Django, DSA**
+- 💬 Ask me about **Java, Spring Boot, Kotlin, Python, Django, DSA**
 
 - 📫 How to reach me **rukhsar141403@gmail.com**
 
